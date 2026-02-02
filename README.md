@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+João+Josafá+%F0%9F%91%8B;Backend+Developer+in+Progress+%F0%9F%9A%80;Always+Learning%2C+Always+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+João+Josafá+%F0%9F%91%8B;Backend+Developer+in+Progress+%F0%9F%9A%80;Always+Learning+%E2%80%A2+Always+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -24,7 +24,7 @@ public class Developer {
 ```
 
 - 🔭 Currently diving deep into **Spring Boot** ecosystem
-- 🌱 Exploring the depths of **C/C++** for low-level understanding
+- 🌱 Exploring **C/C++** for low-level understanding
 - 🐧 **Linux enthusiast** and daily user
 - 📫 Reach me: [joaojosafa11@proton.me](mailto:joaojosafa11@proton.me)
 - ⚡ Fun fact: I'm a strong believer in open source and free access to knowledge - information wants to be free!
